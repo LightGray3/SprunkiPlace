@@ -1,0 +1,2 @@
+-- Founder; LightGray2
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-108.62335205078125, 6085.146484375, 189.87498474121094)
