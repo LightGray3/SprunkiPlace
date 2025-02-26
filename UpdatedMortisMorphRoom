@@ -1,0 +1,2 @@
+-- Updated place, cause coordinates change lol //Founder: LightGray2
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-972.271240234375, 6360.283203125, -5120.390625)
